@@ -9,3 +9,7 @@ categories:
     articles:
       - article2
       - article3
+  - name: Single Entrypoint
+    icon: fa crosshairs
+    articles:
+      - single_entrypoint-en.md
