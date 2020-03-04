@@ -1,0 +1,11 @@
+categories:
+  - name: category1
+    icon: fa fa-address-book
+    featured: true
+    articles:
+      - article1
+  - name: category2
+    icon: fa fa-address-book-o
+    articles:
+      - article2
+      - article3
