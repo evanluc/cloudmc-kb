@@ -1,3 +1,8 @@
+---
+title: Single Entrypoint
+slug: single-entrypoint
+---
+
 # Administration guide:  Presenting CloudMC Services and URLs
 
 When planning a deployment of CloudMC, it is important to decide how the CloudMC Web user interface and API will be presented to end-users.  Will there be a single URL for all organizations, or will each organization be accessed via a custom URL unique to that organization?  CloudMC provides the cloud operator with both of these options.
