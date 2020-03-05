@@ -1,15 +1,15 @@
 categories:
-  - name: category1
+  - category: category1
     icon: fa fa-address-book
     featured: true
     articles:
       - article1
-  - name: category2
+  - category: category2
     icon: fa fa-address-book-o
     articles:
       - article2
       - article3
-  - name: Single Entrypoint
+  - category: Single-Entrypoint
     icon: fa crosshairs
     articles:
       - single_entrypoint-en.md
