@@ -1,3 +1,3 @@
 ---
-name: Single Entrypoint
+title: Single Entrypoint
 ---

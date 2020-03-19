@@ -13,3 +13,13 @@ categories:
     icon: fa crosshairs
     articles:
       - single_entrypoint
+  - category: basic-concepts
+    articles:
+      - environments-to-organize-workloads-and-users
+      - main-cloud.ca-entities
+  - category: how-to
+    articles:
+      - create-site-to-site-vpn-on-vpc
+  - category: object-storage-service
+    articles:
+      - object-storage-terminology
