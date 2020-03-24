@@ -3,7 +3,7 @@ categories:
     icon: fa fa-address-book
     featured: true
     articles:
-      - article1.md
+      - article1.booboo
   - category: category2
     icon: fa fa-address-book-o
     articles:
